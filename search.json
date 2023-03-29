@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Quarto Generals guides\nQuarto Creating a Website\nMarkdown Basic Syntax\n\n\n\n\n\nJoshua French Creating websites with Quarto and GitHub\nAndy Field Quarto tutorials\nPosit (RStudio) Quarto\nDr Lyndon Walker Quarto"
+  },
+  {
+    "objectID": "resources.html#spring",
+    "href": "resources.html#spring",
+    "title": "Resources",
+    "section": "Spring",
+    "text": "Spring\n\nDocs & Guides / Spring\n\nSpring Reference Documentation\n\n\n\nVideo Tutorials / Spring\n\nPíldoras informáticas Curso Spring"
+  },
+  {
+    "objectID": "resources.html#spring-boot",
+    "href": "resources.html#spring-boot",
+    "title": "Resources",
+    "section": "Spring Boot",
+    "text": "Spring Boot\n\nTalks / Spring Boot\n\nCampusMVP.es Desarrollo web Java con Spring Boot"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "aznale",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "spring.html#spring-framework",
+    "href": "spring.html#spring-framework",
+    "title": "Spring",
+    "section": "Spring Framework",
+    "text": "Spring Framework\nSpring Framework is a Java platform that provides comprehensive infrastructure support for developing Java applications, is an alternative to JEE.\nSpring framework is a collection of framework libraries introduced by Rod Johnson in 2003.\n\nBenefits\n\nDependency Injection: Is a useful feature for object dependencies management, it is just elegant, highly flexible and facilitates maintainability, especially in large Java project. Favors “loose coupling”.\nA POJO (Plain Old Java Object) is a regular Java object, not bound by any special constraints that are not enforced by the Java language specification and do not require any class path. For Java programmers it serves to emphasize the use of simple classes that do not depend on a particular framework. POJOs are used to increase the readability and reusability of a program.\nMinimize boilerplate code.\nSimplifies data access JDBC. (…)\nAOP (Aspect Oriented Programming) (…)"
+  },
+  {
+    "objectID": "spring.html#modules",
+    "href": "spring.html#modules",
+    "title": "Spring",
+    "section": "Modules",
+    "text": "Modules"
+  },
+  {
+    "objectID": "spring.html#spring-projects",
+    "href": "spring.html#spring-projects",
+    "title": "Spring",
+    "section": "Spring Projects",
+    "text": "Spring Projects\n\nSpring Data - Collection of projects for persisting data to SQL and NoSQL databases\nSpring Cloud - Tools for distributed systems\nSpring Security - Authentication and Authorization\nSpring Session - Distributed web application sessions\nSpring Integration - Enterprise Integration Patterns\nSpring Batch - Batch processing\nSpring State Machine - Open Source State Machine"
+  },
+  {
+    "objectID": "spring.html#spring-boot",
+    "href": "spring.html#spring-boot",
+    "title": "Spring",
+    "section": "Spring Boot",
+    "text": "Spring Boot\nSpring Boot is an extension or module built on the Spring framework.\nProvides the ability to create, standalone Spring applications that can just run immediately without the need for annotations, XML configuration, or writing lots of additional code.\n\nBenefits\nSpring Boot gives an easier, quicker path to set up, configure, and run apps. It eliminates the heavy lifting of configuration that is required for setting up most Spring-based apps. Developers can jump right in and use Spring Boot without ever having to learn the underlying Spring framework.\nWhat is Spring Boot?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site 2"
+  },
+  {
+    "objectID": "goalsTimetable.html",
+    "href": "goalsTimetable.html",
+    "title": "Goals Timetable",
+    "section": "",
+    "text": "Timetable"
+  }
+]
