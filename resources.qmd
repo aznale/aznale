@@ -1,0 +1,33 @@
+---
+title: "Resources"
+---
+
+## Quarto
+
+### Docs & Guides / Quarto
+- Quarto [Generals guides](https://quarto.org/docs/guide/)
+- Quarto [Creating a Website](https://quarto.org/docs/websites/)
+- Markdown [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+### Video Tutorials / Quarto
+- Joshua French [Creating websites with Quarto and GitHub](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo)
+- Andy Field [Quarto tutorials](https://www.youtube.com/watch?v=4rKWIJXe3mA&list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&index=1)
+- Posit (RStudio) [Quarto](https://www.youtube.com/watch?v=yvi5uXQMvu4&list=PL9HYL-VRX0oRupficE2l5DGgVIzpypTHs)
+- Dr Lyndon Walker [Quarto](https://www.youtube.com/watch?v=yAlhq8yhLsw&list=PL4Brb3wh2n0wbAONByKD6mfGihKoTk6kf)
+
+
+
+## Spring
+
+### Docs & Guides / Spring
+- Spring [Reference Documentation](https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/index.html)
+
+### Video Tutorials / Spring
+- Píldoras informáticas [Curso Spring](https://www.youtube.com/watch?v=kFIvslQQZ9k&list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)
+
+
+
+## Spring Boot
+
+### Talks / Spring Boot
+- CampusMVP.es [Desarrollo web Java con Spring Boot](https://www.youtube.com/watch?v=ajA6F1y8iYE&t=114s)
