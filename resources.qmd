@@ -15,6 +15,11 @@ title: "Resources"
 - Posit (RStudio) [Quarto](https://www.youtube.com/watch?v=yvi5uXQMvu4&list=PL9HYL-VRX0oRupficE2l5DGgVIzpypTHs)
 - Dr Lyndon Walker [Quarto](https://www.youtube.com/watch?v=yAlhq8yhLsw&list=PL4Brb3wh2n0wbAONByKD6mfGihKoTk6kf)
 
+### Tools / Quarto
+- Quarto Tables [Generator](https://www.tablesgenerator.com/markdown_tables)
+- Diagrams [Graphviz](https://graphviz.org/)
+- Diagrams Graphviz (dot) [Examples](https://renenyffenegger.ch/notes/tools/Graphviz/examples/index)
+- Diagrams [Mermaid](https://mermaid.js.org/)
 
 
 ## Spring

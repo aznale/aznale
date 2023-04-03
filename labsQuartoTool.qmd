@@ -1,0 +1,57 @@
+---
+title: "Lab Quarto Tool"
+---
+
+## Figures
+
+::: {#fig-images layout-ncol=2}
+
+![Spring](images/2560px-Spring_Framework_Logo_2018.svg.png){fig-alt="Spring Logo" #fig-spring}
+
+![Modules](images/spring-overview.png){fig-alt="Spring Logo" #fig-modeules}
+
+Images
+:::
+
+::: {layout-ncol=2}
+
+![](images/2560px-Spring_Framework_Logo_2018.svg.png)
+
+![](images/spring-overview.png)
+
+:::
+
+## Diagrams
+
+### Mermaid
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+### Graphviz
+
+```{dot}
+digraph D {
+
+  A [shape=diamond]
+  B [shape=box, color=red]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=red]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}
+```
+[Graphviz](https://graphviz.org/)
+[altres](https://graphviz.org/gallery/)
+
+Graphviz (dot) [Examples](https://renenyffenegger.ch/notes/tools/Graphviz/examples/index)
+
+
+
+

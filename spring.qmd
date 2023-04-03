@@ -1,11 +1,13 @@
 ---
 title: "Spring"
 ---
+![](images/2560px-Spring_Framework_Logo_2018.svg.png){fig-alt="Spring Logo" height=50 fig-align="center"}
 
-![](images/2560px-Spring_Framework_Logo_2018.svg.png){fig-alt="Spring Logo"}
 
 
-## Spring Framework
+## Spring Framework 
+
+
 **Spring Framework** is a **Java** platform that provides comprehensive infrastructure support for developing Java applications, is an alternative to **JEE**.
 
 Spring framework is a collection of framework libraries introduced by Rod Johnson in 2003.

@@ -10,11 +10,14 @@ website:
       - about.qmd
       - spring.qmd
       - resources.qmd
-      - goalsTimetable.qmd
+      - goalsMindtable.qmd
+      - labsQuartoTool.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: slate
     css: styles.css
     toc: true
 
