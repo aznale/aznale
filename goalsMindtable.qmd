@@ -6,12 +6,12 @@ title: "Goals Mindtable"
 ### 3/4/23 -> 7/4/23
 
 
-| Mins | M                                     | T                                     | W                               | T                               | F |
-|:------:|---------------------------------------|---------------------------------------|---------------------------------|---------------------------------|---|
-| 90   | **Quarto**<br>Create Mindtable        | **REST**<br> Update Book              | **Quarto**<br>To document       | **Rest**<br>CRUD Borrow         |   |
-| 90   | **Quarto**<br>Learn Quarto            | **REST**<br> Update User              | **Git**<br>Learn                | **Rest**<br>CRUD Borrow         |   |
-| 60   | **Spring Boot** Udemy<br>Dependencies | **Spring Boot** Udemy<br>Dependencies | **Git**<br>Learn and document   | **Spring Boot**<br> Udemy       |   |
-| 60   | **Spring Boot** Udemy<br>Dependencies | **Spring Boot** Udemy<br>Dependencies | **Lecture**<br>Thinking in java | **Lecture**<br>Thinking in java |   |
+| Mins | M                                     | T                                         | W                               | T                               | F   |
+| :--: | ------------------------------------- | ----------------------------------------- | ------------------------------- | ------------------------------- | --- |
+|  90  | **Quarto**<br>Create Mindtable        | **REST**<br> Update Book                  | **Quarto**<br>Learn             | **Rest**<br>CRUD Borrow         |     |
+|  90  | **Quarto**<br>Learn Quarto            | **REST**<br> Update User                  | ~~**Git**̣~~**Quarto**<br>Learn                | **Rest**<br>CRUD Borrow         |     |
+|  60  | **Spring Boot** Udemy<br>Dependencies | ~~**Spring Boot** Udemy<br>Dependencies~~ | **Git**<br>Learn and document   | **Spring Boot**<br> Udemy       |     |
+|  60  | **Spring Boot** Udemy<br>Dependencies | ~~**Spring Boot** Udemy<br>Dependencies~~ | **Lecture**<br>Thinking in java | **Lecture**<br>Thinking in java |     |
 
 #### Summary of goals
 **Git**: Learn Git, deepen and understand it.
@@ -25,7 +25,7 @@ title: "Goals Mindtable"
 
 :::{.border}
 - [x] Create Mindtable
-- [x] Markdown Basics, Figures, Tables
+- [x] Markdown Basics, Figures, Tables, Videos, Callouts
 :::
 ---
 
@@ -39,7 +39,21 @@ title: "Goals Mindtable"
 **Rest**: Do the class exercises.
 
 :::{.border}
-(...)
+- [x] Update Book
+- [x] Update User
 :::
 --- 
+
+::: {.callout-tip title="To Learn"}
+## To Learn
+[Revealjs](https://quarto.org/docs/presentations/revealjs/) tool for presentations & [Jupyter notebook](https://quarto.org/docs/authoring/notebook-embed.html) for sharing computational documents.
+:::
+
+::: {.callout-important title="ToDo"}
+## ToDo
+- Jupyter Anotations
+- Code Annotation
+- Revealjs
+- Article Layout `R`
+:::
 

@@ -15,12 +15,16 @@ title: "Resources"
 - Posit (RStudio) [Quarto](https://www.youtube.com/watch?v=yvi5uXQMvu4&list=PL9HYL-VRX0oRupficE2l5DGgVIzpypTHs)
 - Dr Lyndon Walker [Quarto](https://www.youtube.com/watch?v=yAlhq8yhLsw&list=PL4Brb3wh2n0wbAONByKD6mfGihKoTk6kf)
 
-### Tools / Quarto
-- Quarto Tables [Generator](https://www.tablesgenerator.com/markdown_tables)
+### Tools runned / Quarto
 - Diagrams [Graphviz](https://graphviz.org/)
 - Diagrams Graphviz (dot) [Examples](https://renenyffenegger.ch/notes/tools/Graphviz/examples/index)
 - Diagrams [Mermaid](https://mermaid.js.org/)
+- Presentations [Revealjs](https://revealjs.com/)
+- Presentations [Revealjs & Quarto](https://quarto.org/docs/presentations/revealjs/)
+- Notebook [Jupyter](https://jupyter.org/)
 
+### Utilities / Quarto
+- Tables [Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Spring
 
@@ -36,3 +40,7 @@ title: "Resources"
 
 ### Talks / Spring Boot
 - CampusMVP.es [Desarrollo web Java con Spring Boot](https://www.youtube.com/watch?v=ajA6F1y8iYE&t=114s)
+
+
+## Jupyter Notebook
+The [Jupyter Notebook](https://jupyter.org/) is the original web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience.

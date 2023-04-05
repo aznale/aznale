@@ -12,14 +12,17 @@ website:
       - resources.qmd
       - goalsMindtable.qmd
       - labsQuartoTool.qmd
+      - penguins.ipynb
 
 format:
   html:
     theme: 
       light: flatly
-      dark: slate
+      dark: darkly
     css: styles.css
     toc: true
+
+
 
 
 

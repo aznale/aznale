@@ -2,6 +2,39 @@
 title: "Lab Quarto Tool"
 ---
 
+## Article Layout
+
+:::{.column-screen}
+![](images/shutterstockrf-257804815.jpeg)
+:::
+
+::: {.column-margin}
+![A margin image](images/shutterstockrf-257804815.jpeg)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse feugiat odio eget lorem rutrum, eget viverra massa molestie. Mauris id hendrerit velit. Mauris tempor, nisi vel sagittis lobortis, est libero sodales nisl, eget ultricies mi urna et ligula. Suspendisse risus libero, vestibulum at rhoncus id, porttitor eu odio. 
+:::
+
+
+
+## Callouts
+
+::: {.callout-tip collapse="true"}
+## Tip with Title
+
+Note that there are five types of callouts, including:
+`note`, `warning`, `important`, `tip`, and `caution`.
+:::
+
+
+## Video
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc
+    title="What is the CERN?"
+    start="120"
+    height="70%"
+    width="100%" 
+>}}
+
+
 ## Figures
 
 ::: {#fig-images layout-ncol=2}
@@ -13,12 +46,22 @@ title: "Lab Quarto Tool"
 Images
 :::
 
-::: {layout-ncol=2}
+::: {layout="[[1,1],[1]]"}
 
 ![](images/2560px-Spring_Framework_Logo_2018.svg.png)
 
 ![](images/spring-overview.png)
 
+![](images/2560px-Spring_Framework_Logo_2018.svg.png)
+
+:::
+
+::: {layout-ncol=2}
+#### Text One
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse feugiat odio eget lorem rutrum, eget viverra massa molestie. Mauris id hendrerit velit. Mauris tempor, nisi vel sagittis lobortis, est libero sodales nisl, eget ultricies mi urna et ligula. Suspendisse risus libero, vestibulum at rhoncus id, porttitor eu odio. 
+
+#### Text Two
+Curabitur eget vulputate tellus. Maecenas convallis sapien in pellentesque pellentesque. Nam imperdiet est consectetur, mattis lectus et, consequat diam. In ac dolor quis tellus vulputate aliquam. Mauris egestas, dolor ut luctus feugiat, justo ipsum condimentum nibh, quis venenatis nisi neque vitae felis. Donec nec dictum odio.
 :::
 
 ## Diagrams
