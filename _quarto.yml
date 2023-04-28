@@ -8,11 +8,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - spring.qmd
-      - resources.qmd
       - goalsMindtable.qmd
       - labsQuartoTool.qmd
       - penguins.ipynb
+      - react.qmd
+      - resources.qmd
+      - rest.qmd
+      - spring.qmd
+      - Projects/svg.qmd
 
 format:
   html:
